@@ -13,7 +13,7 @@ Download **[Mc-Unlocker.bat](https://github.com/P4pawan/MinecraftBedrockUnlocker
 
 <p align="center">
   <a href="https://github.com/P4pawan/MinecraftBedrockUnlocker/releases/latest/download/MC-Unlocker.bat">
-    <img src="https://img.shields.io/badge/Download-MC-Unlocker.bat-blue?style=for-the-badge&logo=windowsterminal" alt="Download MC-Unlocker.bat"/>
+    <img src="https://img.shields.io/badge/Download-Mc--Unlocker.bat-blue?style=for-the-badge&logo=windowsterminal" alt="Download MC-Unlocker.bat"/>
   </a>
 </p>
 
