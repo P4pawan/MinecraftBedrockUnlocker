@@ -7,9 +7,9 @@ A tool to unlock the full version of **Minecraft Bedrock Edition (GDK)**. **Only
 > ⚠️ **Disclaimer**: This project is for educational purposes only. Please support the developers by purchasing the original game license.
 
 ---
-### 🖱️ Method 1 - Double-Click (MC-Unlocker.bat)
+### 🖱️Double-Click (MC-Unlocker.bat)
 
-Download **[install.bat](https://github.com/P4pawan/MinecraftBedrockUnlocker/releases/latest/download/Mc-Unlocker.bat)** and double-click it. It opens PowerShell automatically and runs the installer.
+Download **[Mc-Unlocker.bat](https://github.com/P4pawan/MinecraftBedrockUnlocker/releases/latest/download/Mc-Unlocker.bat)** and double-click it. It opens PowerShell automatically and runs the installer.
 
 <p align="center">
   <a href="https://github.com/P4pawan/MinecraftBedrockUnlocker/releases/latest/download/MC-Unlocker.bat">
